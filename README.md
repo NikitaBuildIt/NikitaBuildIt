@@ -14,7 +14,7 @@
 
 <h2 align="center">Socials</h2>
 
-<p align="center"> <a href="https://www.github.com/NikitaBuildIt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> </picture> </a><a href="https://t.me/Nktrad" target="_blank" rel="noreferrer"> <img height="40" width="40" src="https://cdn.simpleicons.org/telegram/" /></p>
+<p align="center"> <a href="https://www.github.com/NikitaBuildIt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> </picture> </a><a href="https://t.me/Nktrad" target="_blank" rel="noreferrer"></p>
 
 
 
